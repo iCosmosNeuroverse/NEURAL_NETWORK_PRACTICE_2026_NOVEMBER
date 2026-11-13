@@ -26,13 +26,13 @@ Simple artificial neural network written from memory/scratch by Cosmos Bennett i
   
   For:
   
-  a) Input=(0,0) output should be 0
+  a) Input=(0,0) output should be closer to 0
   
-  b) Input=(1,0) output should be 1
+  b) Input=(1,0) output should be closer to 1
   
-  c) Input=(0,1) output should be 1
+  c) Input=(0,1) output should be closer to 1
   
-  d) Input=(1,1) output should be 0
+  d) Input=(1,1) output should be closer to 0
 
 ![Alt text](https://github.com/iCosmosNeuroverse/NEURAL_NETWORK_PRACTICE_2026_NOVEMBER/blob/main/nn%20screenshot%20a.png "default page")
 ![Alt text](https://github.com/iCosmosNeuroverse/NEURAL_NETWORK_PRACTICE_2026_NOVEMBER/blob/main/nn%20screenshot%20b.png "default page")
