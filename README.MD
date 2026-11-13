@@ -5,6 +5,11 @@
 # 1000 lines of java code written from scratch by Cosmos Bennett, that creates a basic neural network from scratch/memory without Ai libraries, [as I have been doing for some years, approximately every 6 months](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE).
 # This is a part of [my Live agile neural network sessions](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/README.md), and [the ai curriculum](https://icognium.github.io/) that I teach.
 
+
+
+![Alt text](https://github.com/iCosmosNeuroverse/NEURAL_NETWORK_PRACTICE_2026_NOVEMBER/blob/main/nn%20screenshot%20i.png "default page")
+![Alt text](https://github.com/iCosmosNeuroverse/NEURAL_NETWORK_PRACTICE_2026_NOVEMBER/blob/main/nn%20screenshot%20ii.png "default page")
+
 # Modern ai, like GPT are powered by artificial neural networks, at bottom, similar to this fundamental model I wrote/practice writing from memory/sratch every 6 months or so. Granted those systems have neural nets that are alot more complicated than this basic one, but knowing this basic one both code wise and or [mathematically](https://www.amazon.com/Artificial-Neural-Networks-Kids-intuitive-ebook/dp/B077FX57ZZ) can help with debugging. 
 
   
@@ -28,7 +33,10 @@ Simple artificial neural network written from memory/scratch by Cosmos Bennett i
   c) Input=(0,1) output should be 1
   
   d) Input=(1,1) output should be 0
-  
+
+![Alt text](https://github.com/iCosmosNeuroverse/NEURAL_NETWORK_PRACTICE_2026_NOVEMBER/blob/main/nn%20screenshot%20a.png "default page")
+![Alt text](https://github.com/iCosmosNeuroverse/NEURAL_NETWORK_PRACTICE_2026_NOVEMBER/blob/main/nn%20screenshot%20b.png "default page")
+
 
 
  
